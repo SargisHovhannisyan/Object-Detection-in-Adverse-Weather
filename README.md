@@ -1,4 +1,4 @@
-# Object-Detection-in-Adverse-Weather
+# Object Detection in Adverse Weather Using Deep Learning and Thermal-Visible Imaging
 
 
 # Datasets & Methods by Section
