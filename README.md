@@ -135,9 +135,13 @@ A curated list of datasets and methods used across the project’s sections. Eac
 ## 5) Thermal → RGB Translation / Colorization
 
 ### Datasets
+- **FLIR ADAS** — *Thermal frames with annotations for ADAS.*  
+  Dataset: https://oem.flir.com/solutions/automotive/adas-dataset-form/
+  
 - **KAIST Multispectral Pedestrian** — *Aligned RGB+TIR frames used broadly for cross-modal tasks.*  
   S. Hwang, J. Park, N. Kim, Y. Choi, I.S. Kweon. **CVPR 2015**.  
   Dataset: http://multispectral.kaist.ac.kr/
+  
 
 ### General Unpaired I2I Methods (often used/adapted for TIR↔RGB)
 - **CycleGAN** — J.-Y. Zhu, T. Park, P. Isola, A.A. Efros. **ICCV 2017**.  
